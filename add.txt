@@ -1,5 +1,5 @@
 add
 edited in local
-this is remote!
+this is git!
 remote
 local
