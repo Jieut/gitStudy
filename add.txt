@@ -1,4 +1,4 @@
-add
+this is remote!
 edited in local
 this is git!
 remote
